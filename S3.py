@@ -1,7 +1,7 @@
 import boto3
 
 # Credenciales de acceso
-aws_access_key_id = 'AKIAR55OBMAJV2JBFCM6'
+aws_access_key_id = 'AKIAR55OBMAJSSHPJI2N'
 aws_secret_access_key = 'TU_SECRET_KEY'
 region_name = 'us-east-1'  # Puedes cambiar la región según tu necesidad
 
